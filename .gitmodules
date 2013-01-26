@@ -1,0 +1,3 @@
+[submodule "themes/blue-vanillia"]
+	path = themes/blue-vanillia
+	url = git@github.com:zanematthew/blue-vanillia.git
