@@ -1,3 +1,42 @@
 [submodule "themes/blue-vanillia"]
 	path = themes/blue-vanillia
 	url = git@github.com:zanematthew/blue-vanillia.git
+[submodule "plugins/zm-weather"]
+	path = plugins/zm-weather
+	url = git@github.com:zanematthew/zm-weather.git
+[submodule "plugins/zm-google-static-maps"]
+	path = plugins/zm-google-static-maps
+	url = git@github.com:zanematthew/zm-google-static-maps.git
+[submodule "plugins/zm-google-maps"]
+	path = plugins/zm-google-maps
+	url = git@github.com:zanematthew/zm-google-maps.git
+[submodule "plugins/zm-geo-location"]
+	path = plugins/zm-geo-location
+	url = git@github.com:zanematthew/zm-geo-location.git
+[submodule "plugins/zm-contact"]
+	path = plugins/zm-contact
+	url = git@github.com:zanematthew/zm-contact.git
+[submodule "plugins/zm-social-media"]
+	path = plugins/zm-social-media
+	url = git@github.com:zanematthew/zm-social-media.git
+[submodule "plugins/zm-events-venues"]
+	path = plugins/zm-events-venues
+	url = git@github.com:zanematthew/zm-events-venues.git
+[submodule "plugins/zm-login-register"]
+	path = plugins/zm-login-register
+	url = git@github.com:zanematthew/zm-login-register.git
+[submodule "plugins/zm-json"]
+	path = plugins/zm-json
+	url = git@github.com:zanematthew/zm-json.git
+[submodule "plugins/zm-attend-button"]
+	path = plugins/zm-attend-button
+	url = git@github.com:zanematthew/zm-attend-button.git
+[submodule "plugins/zm-easy-cpt"]
+	path = plugins/zm-easy-cpt
+	url = git@github.com:zanematthew/zm-easy-cpt.git
+[submodule "plugins/zm-ajax-comments"]
+	path = plugins/zm-ajax-comments
+	url = git@github.com:zanematthew/zm-ajax-comments.git
+[submodule "plugins/zm-usabmx-stats"]
+	path = plugins/zm-usabmx-stats
+	url = git@github.com:zanematthew/zm-usabmx-stats.git
